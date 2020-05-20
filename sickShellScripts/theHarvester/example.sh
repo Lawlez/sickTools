@@ -1,0 +1,1 @@
+theharvester -d domain.ch -b google,bing,linkedin,suip,dogpile,twitter,yahoo -s -f out.html
