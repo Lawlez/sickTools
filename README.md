@@ -26,6 +26,8 @@ designed to make the web faster, safer, and more open.
 - [ ] [Cursed Chrome](https://github.com/mandatoryprogrammer/CursedChrome) | new |: Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
 - [x] [NMAP](https://github.com/nmap/nmap) | active |: The #1 network scanner & mapper
 - [x] [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | active |: extension to NMAP that chekcs for more known vulns
+- [ ] [lesspass](https://github.com/lesspass/lesspass) | new |: stateless open source password manager
+- [ ] [GrantProxy](https://grantproxy.com/) | new |: Turn your web browser into a magic proxy server in one click.
 
 # sickGuides
 a collection of useful guides or tutorials to stay safe.
@@ -35,7 +37,7 @@ a collection of useful guides or tutorials to stay safe.
 
 
 ## Dev Guides
-- [ ]
+- [ ] [HTMLHEAD.dev](https://htmlhead.dev/) : A free guide to HTML5 <head> elements
 
 
 ### Sources
