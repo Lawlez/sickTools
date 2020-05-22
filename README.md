@@ -36,7 +36,7 @@ a collection of useful guides or tutorials to stay safe.
 
 ## Security Guides
 - [x] [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | active |: These cheat sheets were created by various application security professionals who have expertise in specific topics.
-
+- [ ] [PortSwigger XSS CheatSheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet) | active |: An extensive list of known XSS vulns, sortable and searchable
 
 ## Dev Guides
 - [ ] [HTMLHEAD.dev](https://htmlhead.dev/) : A free guide to HTML5 <head> elements
