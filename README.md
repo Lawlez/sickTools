@@ -20,6 +20,8 @@ a collection of useful, special, or just cool tools to use and try to get more d
 designed to make the web faster, safer, and more open.
 - [ ] [ML5.js](https://github.com/ml5js/ml5-library) | tested |: Friendly & easy to use machine learning for the web!
 - [ ] [TensorFlow](https://github.com/tensorflow) | new |: Open Source Machine Learning Framework (With extensive docs and big community)
+- [ ] [deno](https://github.com/denoland/deno) | testing |: Deno aims to provide a productive and secure scripting environment for the modern programmer. It is built on top of V8, Rust, and TypeScript.
+- [ ] [PNPM](https://github.com/pnpm/pnpm) | new |: Faster, disk space efficient package manager, with good monorepo support.
 
 ## misc Tools
 - [x] [Chrome Galvanizer](https://thehackerblog.com/galvanizer/) | tested |: Harden your Chrome browser via enterprise policy.
@@ -38,7 +40,8 @@ a collection of useful guides or tutorials to stay safe.
 
 ## Dev Guides
 - [ ] [HTMLHEAD.dev](https://htmlhead.dev/) : A free guide to HTML5 <head> elements
-
+- [ ] [CSS FlexBox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | active |: the only CSS flexbox cheatsheet you'll need
+- [x] [DevDocs.io](https://devdocs.io/) | active |: Huge, fast, searchable reporsitory for dev documentation, from java to docker, from rust to WordPress.
 
 ### Sources
 
