@@ -42,6 +42,7 @@ a collection of useful guides or tutorials to stay safe.
 - [ ] [HTMLHEAD.dev](https://htmlhead.dev/) : A free guide to HTML5 <head> elements
 - [ ] [CSS FlexBox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | active |: the only CSS flexbox cheatsheet you'll need
 - [x] [DevDocs.io](https://devdocs.io/) | active |: Huge, fast, searchable reporsitory for dev documentation, from java to docker, from rust to WordPress.
+ - [ ] [Set Up a Private NPM Registry Locally](https://blog.bitsrc.io/how-to-set-up-a-private-npm-registry-locally-1065e6790796) | tested |: using verdaccio to setup local NPM registry.
 
 ### Sources
 
