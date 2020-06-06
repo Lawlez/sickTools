@@ -21,7 +21,7 @@ designed to make the web faster, safer, and more open.
 - [ ] [ML5.js](https://github.com/ml5js/ml5-library) | tested |: Friendly & easy to use machine learning for the web!
 - [ ] [TensorFlow](https://github.com/tensorflow) | new |: Open Source Machine Learning Framework (With extensive docs and big community)
 - [ ] [deno](https://github.com/denoland/deno) | testing |: Deno aims to provide a productive and secure scripting environment for the modern programmer. It is built on top of V8, Rust, and TypeScript.
-- [ ] [PNPM](https://github.com/pnpm/pnpm) | new |: Faster, disk space efficient package manager, with good monorepo support.
+- [x] [PNPM](https://github.com/pnpm/pnpm) | testing |: Faster, disk space efficient package manager, with good monorepo support.
 - [ ] [verdaccio](https://verdaccio.org/) | new |: A lightweight open source private npm proxy registry
 
 ## misc Tools
