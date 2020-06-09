@@ -23,6 +23,7 @@ designed to make the web faster, safer, and more open.
 - [ ] [deno](https://github.com/denoland/deno) | testing |: Deno aims to provide a productive and secure scripting environment for the modern programmer. It is built on top of V8, Rust, and TypeScript.
 - [x] [PNPM](https://github.com/pnpm/pnpm) | testing |: Faster, disk space efficient package manager, with good monorepo support.
 - [ ] [verdaccio](https://verdaccio.org/) | new |: A lightweight open source private npm proxy registry
+- [ ] [caprover](https://github.com/caprover/caprover) | new |: Easiest app/database deployment platform and webserver package for your NodeJS, Python, PHP, Ruby, Go applications. No Docker, nginx knowledge required!
 
 ## misc Tools
 - [x] [Chrome Galvanizer](https://thehackerblog.com/galvanizer/) | tested |: Harden your Chrome browser via enterprise policy.
@@ -31,6 +32,7 @@ designed to make the web faster, safer, and more open.
 - [x] [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | active |: extension to NMAP that chekcs for more known vulns
 - [ ] [lesspass](https://github.com/lesspass/lesspass) | new |: stateless open source password manager
 - [ ] [GrantProxy](https://grantproxy.com/) | new |: Turn your web browser into a magic proxy server in one click.
+- [ ] [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | new |: A delightful community-driven framework for managing your zsh configuration. Includes 200+ plugins
 
 # sickGuides
 a collection of useful guides or tutorials to stay safe.
