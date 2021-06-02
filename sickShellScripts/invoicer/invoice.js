@@ -1,7 +1,7 @@
 const https = require("https");
 const fs = require("fs");
 const crypto = require("crypto")
-const invoiceTemplate = require("./json/template.json");
+const invoiceTemplate = require("./json/template-basic.json");
 const hash = crypto.randomBytes(8).toString("hex")
 
 const generateInvoice = (invoice, filename, success, error) => {
