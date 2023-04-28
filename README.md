@@ -32,6 +32,8 @@ designed to make the web faster, safer, and more open.
 - [x] [PNPM](https://github.com/pnpm/pnpm) | testing |: Faster, disk space efficient package manager, with good monorepo support.
 - [ ] [verdaccio](https://verdaccio.org/) | new |: A lightweight open source private npm proxy registry
 - [ ] [caprover](https://github.com/caprover/caprover) | new |: Easiest app/database deployment platform and webserver package for your NodeJS, Python, PHP, Ruby, Go applications. No Docker, nginx knowledge required!
+- [ ] [megalinter](https://github.com/oxsecurity/megalinter) | new |: Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+
 
 ## misc Tools
 - [x] [Chrome Galvanizer](https://thehackerblog.com/galvanizer/) | tested |: Harden your Chrome browser via enterprise policy.
