@@ -10,9 +10,17 @@ a collection of useful, special, or just cool tools to use and try to get more d
 - [x] [OWASP ZAP](https://github.com/zaproxy/zaproxy) | active |: autodetect security vulnerabilities in your web applications while developing and testing your applications
 - [ ] [ClamAV](https://github.com/Cisco-Talos/clamav-faq) | new |: open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
+## Open Source Vuln Intelligence
+- [x] [deps.dev](https://deps.dev/) | active |: Understand your dependencies - you need to know about security vulnerabilities, licenses, recent releases, and more.
+- [ ] [osv.dev](https://osv.dev/) | new |: A distributed vulnerability database for Open Source
+- [x] [OWASP dependencytrack](https://dependencytrack.org/) | active |: Reduce Supply Chain Risk - Continuous SBOM Analysis Platform
+- [x] [OWASP DependencyCheck](https://github.com/jeremylong/DependencyCheck) | active |: dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [ ] [dep-scan](https://github.com/AppThreat/dep-scan) | active |: fully open-source security audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. 
 
-## Automation Tools
-- [ ]
+
+## Online Tools
+- [x] [CyberChef](https://cyberchef.cybertap.ch/) | active |: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [x] [regex 101](https://regex101.com/) | active |: Free multilingual regular expression debugger with real time explanation, error detection and highlighting. Supports PCRE, JavaScript, GoLang, and Java.
 
 
 ## developer Tools
@@ -33,6 +41,7 @@ designed to make the web faster, safer, and more open.
 - [ ] [lesspass](https://github.com/lesspass/lesspass) | new |: stateless open source password manager
 - [ ] [GrantProxy](https://grantproxy.com/) | new |: Turn your web browser into a magic proxy server in one click.
 - [ ] [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | new |: A delightful community-driven framework for managing your zsh configuration. Includes 200+ plugins
+- [ ] [CycloneDX](https://cyclonedx.org/) | new |: OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction.
 
 # sickGuides
 a collection of useful guides or tutorials to stay safe.
